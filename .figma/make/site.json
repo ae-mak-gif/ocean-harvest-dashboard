@@ -1,0 +1,11 @@
+{
+  "title": "SeaFood SME Dashboard",
+  "description": "Manage fish procurement, sales, inventory, and finances for Zimbabwean fisheries with real-time tracking, reconciliation, and operational insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
